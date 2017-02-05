@@ -1,5 +1,5 @@
 # Go Weather App by Advait Patel
-[<img src="https://github.com/advaitpatel/Android-Project-Apps/blob/master/GoWeatherApp/GoWeatherApp/app/src/main/res/drawable/app_bg.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+[<img src="https://github.com/advaitpatel/Android-Project-Apps/blob/master/Reminder%20Buddy-master/Reminder%20Buddy-master/app/src/main/res/drawable/app_bg.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
 
 A simple, OpenSource Reminder App for Android device. 
 
