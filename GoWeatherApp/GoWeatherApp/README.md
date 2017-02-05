@@ -3,6 +3,8 @@
 
 A simple, OpenSource Weather App for Android device. I used OpenWeatherMap API for weather data. Click here for more information about [OpenWeatherMap](http://openweathermap.org/).
 
+You have to create your own API key and paste it [here](https://github.com/advaitpatel/Android-Project-Apps/blob/master/GoWeatherApp/GoWeatherApp/app/src/main/java/com/advaitpatel/goweather/activity/BaseActivity.java)
+
 ## Application Features
 * Weather widget
 * Current Weather notification
