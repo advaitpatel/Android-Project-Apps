@@ -1,5 +1,5 @@
 # Go Weather App by Advait Patel
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png" style="float: left; padding-right: 10px;">](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
+[<img src="https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/16507959_1229927937097423_1916374772815635489_n.jpg?oh=622d0e6d410401a8bff298525ece7809&oe=591230A1" style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
 
 A simple, OpenSource Weather App for Android device. I used OpenWeatherMap API for weather data. Click here for more information about [OpenWeatherMap](http://openweathermap.org/).
 
