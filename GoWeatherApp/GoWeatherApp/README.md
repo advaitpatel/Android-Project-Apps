@@ -36,70 +36,87 @@ A simple, OpenSource Weather App for Android device. I used OpenWeatherMap API f
 # Screenshots
  
 * Application Home Screen - 1
-[<img src="hhttps://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png)
+
+[<img src="hhttps://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png" width=250 align=left>](https://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png)
 
 
 * Application Home Screen - 2
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624471/628198c2-eb42-11e6-9287-e18904b08de2.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624471/628198c2-eb42-11e6-9287-e18904b08de2.png)
 
 
 * Navigation Drawer - 1
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624472/62825a50-eb42-11e6-870f-97c795349a6f.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624472/62825a50-eb42-11e6-870f-97c795349a6f.png)
 
 
 * Navigation Drawer - 2
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624473/628335d8-eb42-11e6-824e-34f8fbe587d0.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624473/628335d8-eb42-11e6-824e-34f8fbe587d0.png)
 
 
 * Daily Forecast Home Screen - 1
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624466/6278ff00-eb42-11e6-8d9a-34a65bf812c3.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624466/6278ff00-eb42-11e6-8d9a-34a65bf812c3.png)
 
 
 * Daily Forecast Home Screen - 2
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624467/6279d466-eb42-11e6-8d0d-4a536aec4c27.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624467/6279d466-eb42-11e6-8d0d-4a536aec4c27.png)
 
 
 * Daily Forecast Home Screen - 3
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624469/627c0f74-eb42-11e6-8e58-815a9d502d06.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624469/627c0f74-eb42-11e6-8e58-815a9d502d06.png)
 
 
 * App Settings Screen
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624460/626be496-eb42-11e6-91e4-862122a3da7a.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624460/626be496-eb42-11e6-91e4-862122a3da7a.png)
 
 
 * User can enter city name
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624462/626cecf6-eb42-11e6-9655-ce1e901a07b4.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624462/626cecf6-eb42-11e6-9655-ce1e901a07b4.png)
 
 
 * User can enter country name
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624461/626ca41c-eb42-11e6-8591-c356b1656599.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624461/626ca41c-eb42-11e6-8591-c356b1656599.png)
 
 
 * User can chagne units
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624464/62712d98-eb42-11e6-9907-4ec35f213ce6.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624464/62712d98-eb42-11e6-9907-4ec35f213ce6.png)
 
 
 * User can select forecasts period
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624463/626f8c5e-eb42-11e6-9c1c-5fa62b9f5c1a.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624463/626f8c5e-eb42-11e6-9c1c-5fa62b9f5c1a.png)
 
 
 * User can change application language
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624465/6277eab6-eb42-11e6-8699-9f581dfc31cc.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624465/6277eab6-eb42-11e6-8699-9f581dfc31cc.png)
 
 
 * About Me Page
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624475/6287b90a-eb42-11e6-907c-186a5b6d5cb4.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624475/6287b90a-eb42-11e6-907c-186a5b6d5cb4.png)
 
 
 * App Search Functionality
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624459/626bae90-eb42-11e6-8349-5d000edb6330.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624459/626bae90-eb42-11e6-8349-5d000edb6330.png)
 
 
 * App Sharing feature
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624470/627cb172-eb42-11e6-83ca-0d683b17248d.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624470/627cb172-eb42-11e6-83ca-0d683b17248d.png)
 
 
 * Current Weather Notification
+
 [<img src="https://cloud.githubusercontent.com/assets/6481231/22624474/6287519a-eb42-11e6-8a14-f25bd8bdc491.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624474/6287519a-eb42-11e6-8a14-f25bd8bdc491.png)
 
 
