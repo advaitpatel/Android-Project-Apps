@@ -1,5 +1,5 @@
 # Go Weather App by Advait Patel
-[<img src="https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/16507959_1229927937097423_1916374772815635489_n.jpg?oh=622d0e6d410401a8bff298525ece7809&oe=591230A1" width=500 height=500 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+[<img src="https://github.com/advaitpatel/Android-Project-Apps/blob/master/GoWeatherApp/GoWeatherApp/app/src/main/res/drawable/app_bg.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
 
 A simple, OpenSource Weather App for Android device. I used OpenWeatherMap API for weather data. Click here for more information about [OpenWeatherMap](http://openweathermap.org/).
 
@@ -37,7 +37,7 @@ A simple, OpenSource Weather App for Android device. I used OpenWeatherMap API f
  
 ## Application Home Screen - 1
 
-[<img src="hhttps://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png)
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22624468/627bd734-eb42-11e6-9697-47b6231cdda5.png)
 
 
 ## Application Home Screen - 2
